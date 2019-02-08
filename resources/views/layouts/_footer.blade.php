@@ -1,10 +1,10 @@
 <footer class="footer">
-  <img class="brand-icon" src="https://iocaffcdn.phphub.org/uploads/sites/KDiyAbV0hj1ytHpRTOlVpucbLebonxeX.png">
-  <a href="https://laravel-china.org/courses" target=_blank>
-    刻意练习，每日精进
+  <img class="brand-icon" src="/img/icon.png">
+  <a href="http://www.studyfox.cn/263.html" target=_blank>
+    雪狐Laravel项目实战第一季微博系统
   </a>
 
   <div class="float-right">
-    <a href="{{ route('about') }}" >关于</a>
+    <a href="http://www.studyfox.cn" target=_blank>雪狐网</a>
   </div>
 </footer>
